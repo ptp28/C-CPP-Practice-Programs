@@ -8,7 +8,7 @@ int returnXRaisedToY(int x, int y)
     int pow = 1;
     for(int counter = 1; counter <= y; counter++)
     {
-        pow = pow * x;  //2, 4, 8
+        pow = pow * x;
     }
     return pow;
 }
