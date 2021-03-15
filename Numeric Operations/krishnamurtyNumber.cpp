@@ -22,7 +22,7 @@ int checkKrishnamurthyNumber(int n)
     int temp = n; 
     while (temp != 0) 
     {
-        sum += factorial(temp % 10); 
+        sum = sum + factorial(temp % 10); 
         temp = temp / 10; 
     }
 
