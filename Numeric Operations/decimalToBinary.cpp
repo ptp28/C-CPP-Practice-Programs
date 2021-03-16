@@ -8,7 +8,7 @@ O/P: 1010
 #include<iostream>
 using namespace std;
 
-void decToBinary(int n) 
+void decimalToBinary(int n) 
 {
     int binaryNum[32]; 
     int i = 0; 
@@ -32,6 +32,6 @@ int main()
     cout<<"Enter a number : ";
     cin>>num;
 
-    decToBinary(num);
+    decimalToBinary(num);
     return 0;
 }
