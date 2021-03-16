@@ -19,6 +19,7 @@ void decimalToBinary(int n)
         i++; 
     } 
 
+    cout<<"The equivalent binary number is : ";
     for (int j = i - 1; j >= 0; j--) 
     {
         cout<<binaryNum[j];

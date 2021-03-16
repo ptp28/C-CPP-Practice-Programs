@@ -29,6 +29,7 @@ void decimalToHexadecimal(int n)
         n = n / 16;
     }
 
+    cout<<"The equivalent hexadecimal number is : ";
     for (int j = i - 1; j >= 0; j--) 
     {
         cout<<hexaDeciNum[j];
