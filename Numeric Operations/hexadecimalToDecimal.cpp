@@ -1,8 +1,8 @@
 /* Write a program to accept a decimal number and convert it into hexadecimal form. For example - 
-I/P: 10
-O/P: A
-I/P: 2545
-O/P: 9F1
+I/P: A
+O/P: 10
+I/P: 9F1
+O/P: 2545
 */
 
 #include<iostream>
@@ -35,6 +35,6 @@ int main()
     cout<<"Enter a hexadecimal number : ";
     cin>>num;
 
-    cout<<"The equivalent hexadecimal number is : "<<hexadecimalToDecimal(num)<<endl;
+    cout<<"The equivalent decimal number is : "<<hexadecimalToDecimal(num)<<endl;
     return 0;
 }
