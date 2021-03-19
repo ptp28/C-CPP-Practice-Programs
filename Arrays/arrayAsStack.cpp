@@ -1,4 +1,4 @@
-/* Implement array as a stack. Create a menu driven program which includes functions to push, pop, and check if the stack is empty. */
+/* Implement array as a stack. Create a menu driven program which includes functions to push, pop, empty stack, display stack and check if the stack is empty/full. */
 
 #include<iostream>
 using namespace std;
@@ -110,6 +110,8 @@ int main()
                 break;
             case 4:
                 emptyStack(arrayStack, count);
+                break;
+            case 5:
                 break;
             default:
                 cout<<"Wrong choice entered."<<endl;
