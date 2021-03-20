@@ -4,6 +4,8 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "istream": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp"
     }
 }
