@@ -2,6 +2,8 @@
 
 This folder contains programs that generate a given series.
 
+## Program list
+
 `B` - Beginner, `I` - Intermediate, `A` - Advanced
 
 * `B` [Display the fibonacci series up to n values where 'n' is accepted from the user](fibonacciSeries.cpp)
