@@ -27,3 +27,37 @@ This folder contains programs that perform numeric operations on user input.
 * `I` [Write a program to check if a number is a duck number or not. A number is said to be a duck number if it contains the digit 0.](duckNumber.cpp)
 
 * `I` [Write a program to check if the given number is a 'Disarium' number. A number is a 'Disarium' number if the sum of digits powered to their respective position is the number itself. For example - (135 -> 1^1 + 3^2 + 5^3 = 1 + 9 + 125 = 135), (175 -> 1^1 + 7^2 + 5^3 = 1 + 49 + 125 = 175)](disariumNumber.cpp)
+
+* `I` [Write a program to check whether a number is an armstrong number or not. A number is said to be an armstrong number of order n (order is number of digits) if - 
+</br>&emsp;153 => (1*1*1) + (5*5*5) + (3*3*3) = 1+125+27 = 153](armstrongNumber.cpp)
+
+* `I` [Write a program to accept a decimal number and convert it into binary form. For example - 
+</br>&emsp;I/P: 111
+</br>&emsp;O/P: 7](binaryToDecimal.cpp)
+
+* `I` [Write a program to accept a decimal number and convert it into binary form. For example - 
+</br>&emsp;I/P: 7
+</br>&emsp;O/P: 111](decimalToBinary.cpp)
+
+* `I` [Write a program to accept a decimal number and convert it into hexadecimal form. For example - 
+</br>&emsp;I/P: 10
+</br>&emsp;O/P: A](decimalToHexadecimal.cpp)
+
+* `I` [Write a program to accept a decimal number and convert it into hexadecimal form. For example - 
+</br>&emsp;I/P: A
+</br>&emsp;O/P: 10](hexadecimalToDecimal.cpp)
+
+* `I` [Write a program to calculate the hamming distance between two numbers. Hamming distance can be found by converting the numbers into their binary equivalents and count the number of different digits.](hammingDistance.cpp)
+
+* `I` [Write a program to check whether a number is a krishnamurty/special number or not. A number is said to be a krishnamurty number if the sum of the factorial of its digits is the number itself. For example - 
+</br>&emsp;145 => 1!+4!+5! = 1+24+120 = 145](krishnamurtyNumber.cpp)
+
+* `I` [Write a program to check if the given number is a magic number. A number is a magic number if the successive sum of its digits is 1. For example - 
+</br>&emsp;82 -> 8+2 = 10, 10 -> 1+0 = 1](magicNumber.cpp)
+
+* `I` [Write a program to check if the given number is a magic number. A number is a magic number if the successive sum of its digits is 1. For example - 
+</br>&emsp;82 -> 8+2 = 10, 10 -> 1+0 = 1](magicNumber.cpp)
+
+
+
+
