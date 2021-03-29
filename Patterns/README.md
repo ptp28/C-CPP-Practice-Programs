@@ -1,23 +1,19 @@
-### 1. Write a program to display the following pattern
-###        &
-###    &       &
-### &       &       &
+# Patterns
 
-### 2. Write a program to display the following pattern
-### 1
-### 2   3
-### 4   5   6
-### 7   8   9   10
+This folder contains programs that generate a given pattern.
 
-### Write a program to display the following pattern
-A
-B   C
-D   E   F
-G   H   I   J
+## Program list
 
-### Write a program to display the following pattern
-1
-2   4
-3   6   9
-4   8   12   16
-5   10   15   20   25
+`B` - Beginner, `I` - Intermediate, `A` - Advanced
+
+* `I` [Write a program to display a pyramid of '&' characters.](ampersandPyramidPattern.cpp)
+
+* `I` [Write a program to display a pattern of ascending numbers.](ascendingPattern.cpp)
+
+* `I` [Write a program to display a pattern of ascending characters.](characterPattern.cpp)
+
+* `I` [Write a program to display a pattern of multiples.](multiplesPattern.cpp)
+
+* `I` [Write a program to display alterate '&' and '*' characters in the pattern.](evenOddPattern.cpp)
+
+* `A` [Write a program to display a M pattern.(mPattern.cpp)
