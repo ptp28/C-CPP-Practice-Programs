@@ -16,4 +16,4 @@ This folder contains programs that generate a given pattern.
 
 * `I` [Write a program to display alterate '&' and '*' characters in the pattern.](evenOddPattern.cpp)
 
-* `A` [Write a program to display a M pattern.(mPattern.cpp)
+* `A` [Write a program to display a M pattern.](mPattern.cpp)
