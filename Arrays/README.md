@@ -1,9 +1,40 @@
-## 1. Write a program to accept three digits(0-9) and display the combinations of it i.e. for digits 1,2,3 , the combinations are 123,132,213,231,312,321.
+# Arrays
 
-## 2. Write a program to accept a 3x3 matrix, display the matrix and print the lower triangle of the matrix.
+This folder contains programs that perform operations on arrays.
 
-## 3. Write a program to find the saddle point of the matrix. A saddle point is an element of the matrix such that it is the minimum element in its row and maximum element in its column.
+## Program list
 
-## 4. Write a program to accept a list of numbers and seperate it to create a list of all entered postive numbers and a list of all entered negative numbers.
+`B` - Beginner, `I` - Intermediate, `A` - Advanced
 
-## 5. Write a program to accept a list of numbers and print the sum of all even numbers and the sum of all odd numbers seperately.
+* `B` [Write a program to accept a list of numbers and seperate it to create a list of all entered postive numbers and a list of all entered negative numbers.](seperatePostiveNegative.cpp)
+
+* `B` [Write a program to accept a list of numbers and print the sum of all even numbers and the sum of all odd numbers seperately.](sumOfEvenAndOdd.cpp)
+
+* `B` [Write a program to find that the largest number amongst a collection of numbers which are stored in an array](maxElementArray.cpp)
+
+* `B` [Write a program to find that the smallest number amongst a collection of numbers which are stored in an array](minElementArray.cpp)
+
+* `B` [Write a program to perform a linear search on an array on N numbers where the array as well as the key to search is accepted from the user](linearSearch.cpp)
+
+* `B` [Write a program to perform a binary search on an array on N numbers where the array as well as the key to search is accepted from the user](binarySearch.cpp)
+
+* `I` [Write a program to accept a 3x3 matrix, display the matrix and print the lower triangle of the matrix.](lowerTriangularMatrix.cpp)
+
+* `I` [Write a program to accept a 3x3 matrix, display the matrix and check if the matrix is symmetric or not.](symmtericMatrix.cpp)
+
+* `I` [Write a program to find the saddle point of the matrix. A saddle point is an element of the matrix such that it is the minimum element in its row and maximum element in its column.](matrixSaddlePoint.cpp)
+
+* `I` [An array is called a 'lucky' array if the frequency of the minimum elements is odd, otherwise it is considered 'unlucky'. Check  if the array is lucky or not. Accept the array having N integers from the users.](luckyArray.cpp)
+
+* `I` [Input integer array and add the elements having same value, thus reducing the number of elements in the array. 
+</br>&emsp;I/P: 1 4 2 9 2 4 6 9
+</br>&emsp;O/P: 1 8 4 18 6](arrayReduce.cpp)
+
+* `A` [Implement array as a queue. Create a menu driven program which includes functions to push, pop, empty queue, display queue and check if the queue is empty/full.](arrayAsQueue.cpp)
+
+* `A` [Implement array as a stack. Create a menu driven program which includes functions to push, pop, empty stack, display stack and check if the stack is empty/full.](arrayAsStack.cpp)
+
+* `A` [Write a program to accept three digits(0-9) and display the combinations of it i.e. for digits 1,2,3 , the combinations are 123,132,213,231,312,321.](combinationsOf3DigitNumber.cpp)
+
+* `A` [It is New Year's Day and people are in line for the Wonderland rollercoaster ride. Each person wears a sticker indicating their initial position in the queue from 1 to n. Any person can bribe the person directly in front of them to swap positions, but they still wear their original sticker. One person can bribe at most two others.
+Determine the minimum number of bribes that took place to get to a given queue order. Print the number of bribes, or, if anyone has bribed more than two people, print Too chaotic.](bribeCalculator.cpp)
