@@ -1,0 +1,41 @@
+# String Operations
+
+This folder contains programs that perform operations on strings.
+
+## Program list
+
+`B` - Beginner, `I` - Intermediate, `A` - Advanced
+
+* `B` [Write a program to toggle the cases of the alphabets in the input string.](alphabetToggle.cpp)
+
+* `B` [Accept a character and classify it as a letter, number or special character (using if). If the character is a letter then identify if it is a vowel or a consonant (using switch case).](characterClassification.cpp)
+
+* `B` [Write a program to replace every vowel that occurs at an odd position by the aphabet which follows it. Accept the string from the user](replaceVowel.cpp)
+ 
+* `B` [Write a program to determine if the user entered string is a palindrome or not. A string is said to be a palindrome string if it is equal to its reverse.](stringPalindrome.cpp)
+        
+* `B` [Write a program to count the number of spaces in a given string.](stringSpaceCounter.cpp)
+
+* `B` [Write a program to capitalize the first letter of each word of the user entered string.
+        <br>For example - 
+        <br>I/P: have a nice day
+        <br>O/P: Have A Nice Day](stringCaptalize.cpp)
+
+* `I` [Write a program to find the frequecy of each of the characters occuring in the string.](characterFrequency.cpp)
+
+* `I` [Write a program to check if the given two strings are anagrams. Two strings are said to be anagrams of each other if they contain the same set of characters but their ordering is different.](stringAnagram.cpp)
+
+* `I` [Write a program to determine if a string is a sub string of another string assuming that the user enters both the strings.](replaceSubstring.cpp)
+ 
+* `I` [Accept a string. Find the maximum occuring character and replace all the occurences of that character with the least occuring character.](replaceMaxOccuringCharacter.cpp)
+ 
+* `I` [Write a program to find if a string is a substring of the main string. If the substring is found then replace the occurance of the substring from the main string with another user entered string.](replaceSubstring.cpp)
+ 
+* `I` [Write a program to  reverse the words of a string and display the reversed word string. 
+        <br>For example - 
+        <br>I/P : Have a nice day
+        <br>O/P : day nice a Have](reverseString.cpp)
+        
+* `A` [Reduce a string of lowercase characters in range ascii[‘a’..’z’]by doing a series of operations. In each operation, select a pair of adjacent letters that match, and delete them.
+Delete as many characters as possible using this method and return the resulting string. If the final string is empty, return 'Empty String'.](superStringReduce.cpp)
+       
