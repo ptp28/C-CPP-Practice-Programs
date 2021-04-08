@@ -1,4 +1,4 @@
-/* Write a program to check if the given two strings are anagrams. Two strings are said to be anagrams of each other if they contain the same set of characters but their ordering is different */
+/* Write a program to find the frequecy of each of the characters occuring in the string. */
 
 #include<iostream>
 using namespace std;

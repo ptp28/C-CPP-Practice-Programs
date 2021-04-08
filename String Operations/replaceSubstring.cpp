@@ -1,3 +1,4 @@
+/* Write a program to find if a string is a substring of the main string. If the substring is found then replace the occurance of the substring from the main string with another user entered string */
 #include<iostream>
 using namespace std;
 
