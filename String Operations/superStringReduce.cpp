@@ -44,4 +44,5 @@ int main()
     cout<<superReducedString("aa")<<endl;
     cout<<superReducedString("caca")<<endl;
     cout<<superReducedString("d")<<endl;
+    return 0;
 }
