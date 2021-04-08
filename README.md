@@ -11,4 +11,4 @@ This repository contains C++ implementations of many popular programs that were 
 
 * [Arrays](/Arrays/)
 
-* [Strings](/Strings/)
+* [Strings](/Strings&#32;Operations/)
