@@ -20,6 +20,14 @@ This folder contains programs that perform operations on strings.
         <br>For example - 
         <br>I/P: have a nice day
         <br>O/P: Have A Nice Day](stringCaptalize.cpp)
+ 
+* `B` [There is a sequence of words in CamelCase as a string of letters, s , having the following properties:
+       <br>It is a concatenation of one or more words consisting of English letters.
+       <br>All letters in the first word are lowercase.
+       <br>For each of the subsequent words, the first letter is uppercase and rest of the letters are lowercase.
+       <br>Given s, determine the number of words in s. For example -
+       <br>I/P: oneTwoThree
+       <br>O/P: 3](camelCaseWordCounter.cpp)
 
 * `I` [Write a program to find the frequecy of each of the characters occuring in the string.](characterFrequency.cpp)
 
