@@ -1,5 +1,5 @@
 /* Reduce a string of lowercase characters in range ascii[‘a’..’z’]by doing a series of operations. In each operation, select a pair of adjacent letters that match, and delete them.
-Delete as many characters as possible using this method and return the resulting string. If the final string is empty, return Empty String
+Delete as many characters as possible using this method and return the resulting string. If the final string is empty, return 'Empty String'.
 
 I/P: aab 
 O/P : b
@@ -39,10 +39,10 @@ string superReducedString(string s) {
 
 int main()
 {
-    cout<<superReducedString("aaabccddd")<<endl;
-    cout<<superReducedString("baab")<<endl;
-    cout<<superReducedString("aa")<<endl;
-    cout<<superReducedString("caca")<<endl;
-    cout<<superReducedString("d")<<endl;
+    cout<<"aaabccddd -> "<<superReducedString("aaabccddd")<<endl;
+    cout<<"baab -> "<<superReducedString("baab")<<endl;
+    cout<<"aa -> "<<superReducedString("aa")<<endl;
+    cout<<"caca -> "<<superReducedString("caca")<<endl;
+    cout<<"d -> "<<superReducedString("d")<<endl;
     return 0;
 }
