@@ -30,6 +30,12 @@ This folder contains programs that perform operations on arrays.
 </br>&emsp;I/P: 1 4 2 9 2 4 6 9
 </br>&emsp;O/P: 1 8 4 18 6](arrayReduce.cpp)
 
+* `A` [The distance between two array values is the number of indices between them. Given a, find the minimum distance between any pair of equal elements in the array. If no such value exists, return -1. For example - 
+<br>a = \[3,2,1,2,3\]
+<br>There are two matching pairs of values: 3 and 2. The indices of the 3's are i=0 and j=4, so their distance is d\[i,j\]=|j-i| = 4
+<br>The indices of the 2's are i=1 and j=3, so their distance is d\[i,j\]=|j-i| = 2.
+<br>The minimum distance is min(4,2) = 2.](minimumDistance.cpp)
+
 * `A` [Implement array as a queue. Create a menu driven program which includes functions to push, pop, empty queue, display queue and check if the queue is empty/full.](arrayAsQueue.cpp)
 
 * `A` [Implement array as a stack. Create a menu driven program which includes functions to push, pop, empty stack, display stack and check if the stack is empty/full.](arrayAsStack.cpp)
@@ -38,3 +44,5 @@ This folder contains programs that perform operations on arrays.
 
 * `A` [It is New Year's Day and people are in line for the Wonderland rollercoaster ride. Each person wears a sticker indicating their initial position in the queue from 1 to n. Any person can bribe the person directly in front of them to swap positions, but they still wear their original sticker. One person can bribe at most two others.
 Determine the minimum number of bribes that took place to get to a given queue order. Print the number of bribes, or, if anyone has bribed more than two people, print Too chaotic.](bribeCalculator.cpp)
+
+
