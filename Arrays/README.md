@@ -2,7 +2,8 @@
 
 This folder contains programs that perform operations on arrays.
 
-Number of program - 16
+
+[![Generic badge](https://img.shields.io/badge/ProgramCount-16-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
