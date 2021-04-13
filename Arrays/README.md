@@ -2,6 +2,8 @@
 
 This folder contains programs that perform operations on arrays.
 
+Number of program - 16
+
 ## Program list
 
 `B` - Beginner, `I` - Intermediate, `A` - Advanced
