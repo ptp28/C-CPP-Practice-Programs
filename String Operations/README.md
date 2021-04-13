@@ -28,6 +28,14 @@ This folder contains programs that perform operations on strings.
        <br>Given s, determine the number of words in s. For example -
        <br>I/P: oneTwoThree
        <br>O/P: 3](camelCaseWordCounter.cpp)
+       
+* `I` [Given the time in numerals, convert it to string. For example - 
+       <br> 5:00 -> five o' clock
+       <br> 5:01 -> one minute past five
+       <br> 5:15 -> quarter past five
+       <br> 5:30 -> half past five
+       <br> 5:43 -> seventeen minutes to six
+       <br> 5:45 -> quarter to six](timeInString.cpp)
 
 * `I` [Write a program to find the frequecy of each of the characters occuring in the string.](characterFrequency.cpp)
 
