@@ -1,4 +1,4 @@
-/* Given the time in numerals we may convert it into words, as shown below:
+/* Given the time in numerals convert it to words, as shown below:
 5:00 -> five o' clock
 5:01 -> one minute past five
 5:15 -> quarter past five
