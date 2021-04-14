@@ -2,6 +2,8 @@
 
 This folder contains programs that perform operations on strings.
 
+[![Generic badge](https://img.shields.io/badge/ProgramCount-15-<COLOR>.svg)](https://shields.io/)
+
 ## Program list
 
 `B` - Beginner, `I` - Intermediate, `A` - Advanced

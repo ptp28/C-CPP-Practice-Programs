@@ -2,6 +2,8 @@
 
 This folder contains programs that generate a given pattern.
 
+[![Generic badge](https://img.shields.io/badge/ProgramCount-6-<COLOR>.svg)](https://shields.io/)
+
 ## Program list
 
 `B` - Beginner, `I` - Intermediate, `A` - Advanced

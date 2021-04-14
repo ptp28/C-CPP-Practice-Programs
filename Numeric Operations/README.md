@@ -2,6 +2,8 @@
 
 This folder contains programs that perform numeric operations on user input.
 
+[![Generic badge](https://img.shields.io/badge/ProgramCount-20-<COLOR>.svg)](https://shields.io/)
+
 ## Program list
 
 `B` - Beginner, `I` - Intermediate, `A` - Advanced
