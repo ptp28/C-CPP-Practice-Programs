@@ -19,25 +19,25 @@ This folder contains programs that perform operations on strings.
 * `B` [Write a program to count the number of spaces in a given string.](stringSpaceCounter.cpp)
 
 * `B` [Write a program to capitalize the first letter of each word of the user entered string.
-        <br>For example - 
-        <br>I/P: have a nice day
-        <br>O/P: Have A Nice Day](stringCaptalize.cpp)
+        <br>&emsp;For example - 
+        <br>&emsp;I/P: have a nice day
+        <br>&emsp;O/P: Have A Nice Day](stringCaptalize.cpp)
  
 * `B` [There is a sequence of words in CamelCase as a string of letters, s , having the following properties:
-       <br>It is a concatenation of one or more words consisting of English letters.
-       <br>All letters in the first word are lowercase.
-       <br>For each of the subsequent words, the first letter is uppercase and rest of the letters are lowercase.
-       <br>Given s, determine the number of words in s. For example -
-       <br>I/P: oneTwoThree
-       <br>O/P: 3](camelCaseWordCounter.cpp)
+       <br>&emsp;It is a concatenation of one or more words consisting of English letters.
+       <br>&emsp;All letters in the first word are lowercase.
+       <br>&emsp;For each of the subsequent words, the first letter is uppercase and rest of the letters are lowercase.
+       <br>&emsp;Given s, determine the number of words in s. For example -
+       <br>&emsp;I/P: oneTwoThree
+       <br>&emsp;O/P: 3](camelCaseWordCounter.cpp)
        
 * `I` [Given the time in numerals, convert it to string. For example - 
-       <br> 5:00 -> five o' clock
-       <br> 5:01 -> one minute past five
-       <br> 5:15 -> quarter past five
-       <br> 5:30 -> half past five
-       <br> 5:43 -> seventeen minutes to six
-       <br> 5:45 -> quarter to six](timeInString.cpp)
+       <br>&emsp; 5:00 -> five o' clock
+       <br>&emsp; 5:01 -> one minute past five
+       <br>&emsp; 5:15 -> quarter past five
+       <br>&emsp; 5:30 -> half past five
+       <br>&emsp; 5:43 -> seventeen minutes to six
+       <br>&emsp; 5:45 -> quarter to six](timeInString.cpp)
 
 * `I` [Write a program to find the frequecy of each of the characters occuring in the string.](characterFrequency.cpp)
 
@@ -50,9 +50,9 @@ This folder contains programs that perform operations on strings.
 * `I` [Write a program to find if a string is a substring of the main string. If the substring is found then replace the occurance of the substring from the main string with another user entered string.](replaceSubstring.cpp)
  
 * `I` [Write a program to  reverse the words of a string and display the reversed word string. 
-        <br>For example - 
-        <br>I/P : Have a nice day
-        <br>O/P : day nice a Have](reverseString.cpp)
+        <br>&emsp;For example - 
+        <br>&emsp;I/P : Have a nice day
+        <br>&emsp;O/P : day nice a Have](reverseString.cpp)
         
 * `A` [Reduce a string of lowercase characters in range ascii[‘a’..’z’]by doing a series of operations. In each operation, select a pair of adjacent letters that match, and delete them.
 Delete as many characters as possible using this method and return the resulting string. If the final string is empty, return 'Empty String'.](superStringReduce.cpp)
