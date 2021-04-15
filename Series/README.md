@@ -23,3 +23,9 @@ This folder contains programs that generate a given series.
 <br>&emsp;For example - 
 <br>&emsp;I/P: SOSTOT
 <br>&emsp;O/P: 2](messageTransmissionError.cpp)
+
+* `I` [We say that a string contains the word 'programming' if a subsequence of its characters spell the word programming. 
+<br>&emsp;Remeber that a subsequence maintains the order of characters selected from a sequence.
+<br>&emsp;For each query, print YES on a new line if the string contains 'programming', otherwise, print NO. For example -
+<br>&emsp;I/P: prroogggrammmmmminnnng
+<br>&emsp;O/P: YES](subsequence.cpp)
