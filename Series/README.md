@@ -2,7 +2,7 @@
 
 This folder contains programs that generate a given series.
 
-[![Generic badge](https://img.shields.io/badge/ProgramCount-4-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ProgramCount-5-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
