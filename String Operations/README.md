@@ -2,7 +2,7 @@
 
 This folder contains programs that perform operations on strings.
 
-[![Generic badge](https://img.shields.io/badge/ProgramCount-15-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ProgramCount-16-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
@@ -38,6 +38,12 @@ This folder contains programs that perform operations on strings.
        <br>&emsp; 5:30 -> half past five
        <br>&emsp; 5:43 -> seventeen minutes to six
        <br>&emsp; 5:45 -> quarter to six](timeInString.cpp)
+
+
+* `I` [A pangram is a string that contains every letter of the alphabet. 
+       <br>&emsp; Given a sentence determine whether it is a pangram in the English alphabet.
+       <br>&emsp; I/P: The quick brown fox jumps over the lazy dog
+       <br>&emsp; O/P: Pangram string](pangramSentence.cpp)
 
 * `I` [Write a program to find the frequecy of each of the characters occuring in the string.](characterFrequency.cpp)
 
