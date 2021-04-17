@@ -10,7 +10,7 @@ This folder contains programs that generate a given pattern.
 
 * `I` [Write a program to display a pyramid of '&' characters.](ampersandPyramidPattern.cpp)
 
-* `I` [Write a program to display a pattern of ascending numbers.](ascendingPattern.cpp)
+* `I` [Write a program to display a pattern of ascending numbers. (Flyod's Triangle)](flyod'sTrianglePattern.cpp)
 
 * `I` [Write a program to display a pattern of ascending characters.](characterPattern.cpp)
 
