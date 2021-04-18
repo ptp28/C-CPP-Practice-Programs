@@ -3,7 +3,7 @@
 This folder contains programs that perform operations on arrays.
 
 
-[![Generic badge](https://img.shields.io/badge/ProgramCount-16-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ProgramCount-17-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
@@ -16,6 +16,8 @@ This folder contains programs that perform operations on arrays.
 * `B` [Write a program to find that the largest number amongst a collection of numbers which are stored in an array](maxElementArray.cpp)
 
 * `B` [Write a program to find that the smallest number amongst a collection of numbers which are stored in an array](minElementArray.cpp)
+
+* `B` [Write a program to accept an array and find its range. The range of an array is defined as the difference between the maximum value element of the array and the minimum value element of the array.](arrayRange.cpp)
 
 * `B` [Write a program to perform a linear search on an array on N numbers where the array as well as the key to search is accepted from the user](linearSearch.cpp)
 
