@@ -6,6 +6,7 @@
         "istream": "cpp",
         "iosfwd": "cpp",
         "chrono": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "string": "cpp"
     }
 }
