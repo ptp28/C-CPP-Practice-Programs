@@ -2,7 +2,7 @@
 
 This folder contains programs that perform numeric operations on user input.
 
-[![Generic badge](https://img.shields.io/badge/ProgramCount-20-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ProgramCount-21-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
@@ -59,6 +59,13 @@ This folder contains programs that perform numeric operations on user input.
 
 * `I` [Write a program to check if the given number is a magic number. A number is a magic number if the successive sum of its digits is 1. For example - 
 </br>&emsp;82 -> 8+2 = 10, 10 -> 1+0 = 1](magicNumber.cpp)
+
+* `A` [Write a program to check if the given number is a Kaprekar number. 
+</br>&emsp;A Kaprekar number is a number whose square when divided into two parts, that the sum of the two parts is equal to the original number and none of the parts has the value 0. 
+</br>&emsp;For example - 
+</br>&emsp;I/P: 45
+</br>&emsp;O/P: The number is a Kaprekar number
+</br>&emsp;(45-> 45^2=2025 -> 20+25 = 45. Therefore 45 is a Kaprekar number).](kaprekarNumber.cpp)
 
 
 
