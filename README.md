@@ -1,4 +1,4 @@
-# UltimateCoderPrograms
+# C-CPP-Practice-Programs
 
 This repository contains C++ implementations of many popular programs that were taught as assignments and for practice in colleges.
 
