@@ -3,7 +3,7 @@
 This folder contains programs that perform operations on arrays.
 
 
-[![Generic badge](https://img.shields.io/badge/ProgramCount-17-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ProgramCount-18-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
@@ -14,6 +14,8 @@ This folder contains programs that perform operations on arrays.
 * `B` [Write a program to accept a list of numbers and print the sum of all even numbers and the sum of all odd numbers seperately.](sumOfEvenAndOdd.cpp)
 
 * `B` [Write a program to find that the largest number amongst a collection of numbers which are stored in an array](maxElementArray.cpp)
+
+* `B` [Accept an array and print the largest and the second largest number of the entered array](arraySecondLargest.cpp)
 
 * `B` [Write a program to find that the smallest number amongst a collection of numbers which are stored in an array](minElementArray.cpp)
 
