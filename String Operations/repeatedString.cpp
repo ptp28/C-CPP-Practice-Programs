@@ -1,7 +1,11 @@
 /* There is a string, s, of lowercase English letters that is repeated infinitely many times. Given an integer, n, find and print the number of letter a's in the first n letters of the infinite string.
 Example:
+I/P: s => "abcac", n => 10
+O/P: 4
+EXPLAINATION => The substring we consider is "abcacabcac", the first 10 characters of the infinite string. There are 4 occurrences of a in the substring.
 I/P: s => "aba", n => 10
 O/P: 7
+EXPLAINATION => The substring we consider is "abaabaabaa", the first 10 characters of the infinite string. There are 7 occurrences of a in the substring.
 I/P: s => "a", n => 1000000000000
 O/P: 1000000000000
 */
