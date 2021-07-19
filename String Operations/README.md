@@ -2,7 +2,7 @@
 
 This folder contains programs that perform operations on strings.
 
-[![Generic badge](https://img.shields.io/badge/ProgramCount-17-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ProgramCount-18-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
@@ -62,9 +62,15 @@ This folder contains programs that perform operations on strings.
         
         
 * `I` [There is a string, s, of lowercase English letters that is repeated infinitely many times. Given an integer, n, find and print the number of letter a's in the first n letters of the infinite string.
-Example:
-I/P: s => "aba", n => 10
-O/P: 7](repeatedString.cpp)
+ <br>&emsp; For example -
+ <br>&emsp; I/P: s => "aba", n => 10
+ <br>&emsp; O/P: 7](repeatedString.cpp)
+
+
+* `I` [Given a string of lowercase letters in the range ascii[a-z], determine the index of a character that can be removed to make the string a palindrome. There may be more than one solution, but any will do. If the word is already a palindrome or there is no solution, return -1. Otherwise, return the index of a character to remove.
+ <br>&emsp; For example - 
+ <br>&emsp; I/P: s => "bcbc"
+ <br>&emsp; O/P: 0](convertToPalindromeString.cpp)
         
 * `A` [Reduce a string of lowercase characters in range ascii[‘a’..’z’]by doing a series of operations. In each operation, select a pair of adjacent letters that match, and delete them.
 Delete as many characters as possible using this method and return the resulting string. If the final string is empty, return 'Empty String'.](superStringReduce.cpp)
