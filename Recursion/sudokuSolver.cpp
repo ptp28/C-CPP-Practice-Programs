@@ -1,3 +1,6 @@
+/* Given a 9x9 sudoku puzzle in form of a 2D array, write a program to solve the given sudoku puzzle using the backtracking method.
+*/
+
 #include<iostream>
 using namespace std;
 
