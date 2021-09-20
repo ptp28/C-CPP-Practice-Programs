@@ -81,6 +81,7 @@ int solveSudoku(int grid[][9], int row, int col) {
 
 
 int main() {
+    cout<<"\nUnsolved soduku grid - ";
     int grid[9][9] = { 
         {3, 0, 6, 5, 0, 8, 4, 0, 0}, 
         {5, 2, 0, 0, 0, 0, 0, 0, 0}, 
@@ -92,10 +93,9 @@ int main() {
         {0, 0, 0, 0, 0, 0, 0, 7, 4}, 
         {0, 0, 5, 2, 0, 6, 3, 0, 0} 
     };
-    cout<<"Sudoku solver"<<endl;
     printSudoku(grid);
     solveSudoku(grid, 0, 0);
-    cout<<"After solver"<<endl;
+    cout<<"\nSolved soduku grid - ";
     printSudoku(grid);
     return 0;
 }
