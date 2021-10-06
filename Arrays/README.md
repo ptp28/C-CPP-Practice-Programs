@@ -3,7 +3,7 @@
 This folder contains programs that perform operations on arrays.
 
 
-[![Generic badge](https://img.shields.io/badge/ProgramCount-18-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/ProgramCount-19-<COLOR>.svg)](https://shields.io/)
 
 ## Program list
 
@@ -24,6 +24,8 @@ This folder contains programs that perform operations on arrays.
 * `B` [Write a program to perform a linear search on an array on N numbers where the array as well as the key to search is accepted from the user](linearSearch.cpp)
 
 * `B` [Write a program to perform a binary search on an array on N numbers where the array as well as the key to search is accepted from the user](binarySearch.cpp)
+
+* `I` [Write a program to add two numbers represented by two arrays.](addArrays.cpp)
 
 * `I` [Write a program to accept a 3x3 matrix, display the matrix and print the lower triangle of the matrix.](lowerTriangularMatrix.cpp)
 
