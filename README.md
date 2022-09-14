@@ -1,20 +1,7 @@
-# C-CPP-Practice-Programs
+# Practice-Programs
 
-This repository contains C++ implementations of many popular programs that were taught as assignments and for practice in colleges.
+This repository contains my implementation of many popular programs found online.
 
-[![Generic badge](https://img.shields.io/badge/Program%20Count-74-<COLOR>.svg)](https://shields.io/)
+# [![Generic badge](https://img.shields.io/badge/Total%20Count-74-brightgreen.svg)](https://shields.io/)
 
-[![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-blue.svg)]()
-
-## Modules list
-
-* [Numeric Operations](/Numeric&#32;Operations/)
-* [Series](/Series/)
-
-* [Patterns](/Patterns/)
-
-* [Arrays](/Arrays/)
-
-* [Strings](/String&#32;Operations/)
-
-* [Recusion](/Recursion/)
+[![programmed-in-cpp](https://img.shields.io/badge/Programmed%20using%20C++-74-blue.svg)]() [![programmed-in-java](https://img.shields.io/badge/Programmed%20using%20Java-0-red.svg)]() [![programmed-in-python](https://img.shields.io/badge/Programmed%20using%20Python-0-green.svg)]() [![programmed-in-js](https://img.shields.io/badge/Programmed%20using%20Javascript-0-yellow.svg)]()
