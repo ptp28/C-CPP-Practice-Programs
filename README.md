@@ -1,6 +1,4 @@
-# C-CPP-Practice-Programs
-
-This repository contains C++ implementations of many popular programs that were taught as assignments and for practice in colleges.
+# CPP-Practice-Programs
 
 [![Generic badge](https://img.shields.io/badge/Program%20Count-74-<COLOR>.svg)](https://shields.io/)
 
