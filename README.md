@@ -1,8 +1,8 @@
-# Java-Practice-Programs
+# Javascript-Practice-Programs
 
 [![Generic badge](https://img.shields.io/badge/Program%20Count-0-brightgreen.svg)](https://shields.io/)
 
-[![programmed-in-java](https://img.shields.io/badge/Programmed%20using-Java-red.svg)]()
+[![programmed-in-java](https://img.shields.io/badge/Programmed%20using-Javascript-yellow.svg)]()
 
 ## Modules list
 
